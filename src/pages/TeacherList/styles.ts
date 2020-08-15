@@ -1,5 +1,5 @@
 import { StyleSheet } from 'react-native';
-import styles from '../Landing/styles';
+
 
 const styles = StyleSheet.create({
     container: {
